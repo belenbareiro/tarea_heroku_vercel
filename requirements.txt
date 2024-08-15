@@ -1,0 +1,13 @@
+asgiref==3.8.1
+attrs==24.2.0
+Django==5.1
+django-environ==0.4.5
+fancycompleter==0.9.1
+pdbpp==0.10.3
+psycopg2-binary==2.9.9
+Pygments==2.18.0
+pyrepl==0.9.0
+python-dotenv==1.0.1
+sqlparse==0.5.1
+tabulate==0.9.0
+wmctrl==0.5
